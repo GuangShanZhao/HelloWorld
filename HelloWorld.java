@@ -1,5 +1,6 @@
 public class HelloWorld{
-	public static void main(arges[]){
-		System.out.println("’‘π„…∆10010");
+	public static void main(String[] args){
+		System.Out.Println("’‘π„…∆10010");
+		System.Out.Println("√‹¬Î:10010");
 	} 
 }
